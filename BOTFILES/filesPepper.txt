@@ -1,0 +1,15 @@
+# underlying conversation system
+# RAWDATA/HARRY/	
+
+../BOTFILES/JOEY/
+bot: joey
+
+# quibble ability
+RAWDATA/QUIBBLE/
+
+
+
+
+
+
+

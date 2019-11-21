@@ -1,0 +1,5 @@
+﻿T~childhood ( run_away history younger young memory little kid childhood child )
+T~introductions ( here name ~emohowzit ~emohello ~emogoodbye )
+T~keywordless ( )
+T~control ( )
+T~xpostprocess ( )
